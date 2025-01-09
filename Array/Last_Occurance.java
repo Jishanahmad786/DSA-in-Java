@@ -1,4 +1,4 @@
-// problem -> write a program to last occurance index in array
+// problem -> write a program to find last occurance index in array
 
 public class Last_Occurance {
 
